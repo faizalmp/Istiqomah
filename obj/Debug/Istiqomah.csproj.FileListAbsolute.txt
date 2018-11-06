@@ -1,0 +1,15 @@
+C:\Users\win8\Documents\Visual Studio 2015\Projects\Istiqomah\Istiqomah\bin\Debug\Istiqomah.exe.config
+C:\Users\win8\Documents\Visual Studio 2015\Projects\Istiqomah\Istiqomah\bin\Debug\Istiqomah.exe
+C:\Users\win8\Documents\Visual Studio 2015\Projects\Istiqomah\Istiqomah\bin\Debug\Istiqomah.pdb
+C:\Users\win8\Documents\Visual Studio 2015\Projects\Istiqomah\Istiqomah\obj\Debug\Istiqomah.csprojResolveAssemblyReference.cache
+C:\Users\win8\Documents\Visual Studio 2015\Projects\Istiqomah\Istiqomah\obj\Debug\Istiqomah.Properties.Resources.resources
+C:\Users\win8\Documents\Visual Studio 2015\Projects\Istiqomah\Istiqomah\obj\Debug\Istiqomah.csproj.GenerateResource.Cache
+C:\Users\win8\Documents\Visual Studio 2015\Projects\Istiqomah\Istiqomah\obj\Debug\Istiqomah.exe
+C:\Users\win8\Documents\Visual Studio 2015\Projects\Istiqomah\Istiqomah\obj\Debug\Istiqomah.pdb
+C:\Users\win8\Documents\Visual Studio 2015\Projects\Istiqomah\Istiqomah\obj\Debug\Istiqomah.Home_Page.resources
+C:\Users\win8\Documents\Visual Studio 2015\Projects\Istiqomah\Istiqomah\obj\Debug\Istiqomah.Register_Page.resources
+C:\Users\win8\Documents\Visual Studio 2015\Projects\Istiqomah\Istiqomah\obj\Debug\Istiqomah.Mutabaah_Page.resources
+C:\Users\win8\Documents\Visual Studio 2015\Projects\Istiqomah\Istiqomah\obj\Debug\Istiqomah.Menu_Page.resources
+C:\Users\win8\Documents\Visual Studio 2015\Projects\Istiqomah\Istiqomah\bin\Debug\IstiqomahDatabase.accdb
+C:\Users\win8\Documents\Visual Studio 2015\Projects\Istiqomah\Istiqomah\obj\Debug\Istiqomah.ShowMutabaah_Page.resources
+C:\Users\win8\Documents\Visual Studio 2015\Projects\Istiqomah\Istiqomah\obj\Debug\Istiqomah.Zakat_Page.resources
